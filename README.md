@@ -33,7 +33,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Future improvements
 
-- Enable you to play with the computer instead of with someone else
+- Enable you to play with the computer apart from with someone else
 
 # Contact info
 
