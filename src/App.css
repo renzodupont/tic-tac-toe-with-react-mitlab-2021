@@ -140,3 +140,12 @@ a:hover {
     margin-left: calc(50% - 40px);
   }
 }
+
+@media (max-width: 600px) {
+  .board-box h3 {
+    font-size: 60px;
+    display: block;
+    margin-top: calc(50% - 25px);
+    margin-left: calc(50% - 25px);
+  }
+}
